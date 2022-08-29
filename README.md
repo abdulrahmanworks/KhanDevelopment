@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kamran Khan
 - 👀 I’m interested in ... JavaScript
 - 🌱 I’m currently learning ... Solana ecosystem
-- 💞️ I’m looking to collaborate on ... Multiple Projects with different JavaScript and framework
+- 💞️ I’m looking to collaborate on ... Multiple Projects with different JavaScript and frameworks
 - 📫 How to reach me ...  ibifahar@gmail.com 
 
 
