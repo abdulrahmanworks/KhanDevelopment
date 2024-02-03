@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kamran Khan
+- 👋 Hi, I’m @AbdulRahman
 - 👀 I’m interested in ... JavaScript
 - 🌱 I’m currently learning ... Solana ecosystem
 - 💞️ I’m looking to collaborate on ... Multiple Projects with different JavaScript and frameworks
-- 📫 How to reach me ...  ibifahar@gmail.com 
+- 📫 How to reach me ...  abdulrahmanmern@gmail.com
 
 
 I'm a software engineer. Who love to solve problems using technologies. I believe there is no language and tools in the IT industry,
