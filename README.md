@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbdulRahman
 - 👀 I’m interested in ... JavaScript
-- 🌱 I’m currently learning ... Solana ecosystem
 - 💞️ I’m looking to collaborate on ... Multiple Projects with different JavaScript and frameworks
 - 📫 How to reach me ...  abdulrahmanmern@gmail.com
 
